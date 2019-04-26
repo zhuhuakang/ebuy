@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eb-admin" />
+        <module name="eb-commons" />
+        <module name="eb-eureka1" />
+        <module name="eb-eureka2" />
+        <module name="eb-pojo" />
+        <module name="eb-web" />
+        <module name="eb-web-seckill-consumer" />
+        <module name="eb-web-seckill-provider1" />
+        <module name="eb-web-seckill-provider2" />
+        <module name="eb-zuul" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eb-admin" options="-parameters" />
+      <module name="eb-commons" options="-parameters" />
+      <module name="eb-eureka1" options="-parameters" />
+      <module name="eb-eureka2" options="-parameters" />
+      <module name="eb-pojo" options="-parameters" />
+      <module name="eb-web" options="-parameters" />
+      <module name="eb-web-seckill-consumer" options="-parameters" />
+      <module name="eb-web-seckill-provider1" options="-parameters" />
+      <module name="eb-web-seckill-provider2" options="-parameters" />
+      <module name="eb-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

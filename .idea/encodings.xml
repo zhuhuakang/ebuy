@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-eureka1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-eureka2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-web-seckill-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-web-seckill-provider1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-web-seckill-provider2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eb-zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
